@@ -1,0 +1,2 @@
+# star
+Go pointer helper
